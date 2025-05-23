@@ -4,7 +4,7 @@ Aprendendo com foco em praticar estruturação de páginas, com algumas linguage
 
 ## 🔗 Acesse o projeto
 
-Você pode visualizar o projeto online aqui: (https://rhayssarubya.github.io/Netflix-clone/)
+Você pode visualizar o projeto online aqui: (https://rhayssarubya.github.io/clonenetflixx/)
 
 ## 🚀 Tecnologias utilizadas
 
