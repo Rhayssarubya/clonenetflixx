@@ -1,9 +1,9 @@
-# Clone da Netflix 🎬
+# Rharubya 🎬
 
-Este é o meu primeiro projeto publicado no GitHub! Um clone da interface da Netflix, criado com HTML, CSS e JavaScript, com foco em praticar estruturação de páginas, responsividade e efeitos visuais.
+Olá, seja bem vindo esse é o meu primeiro projeto aqui nessa rede! Fiz um clone da interface da Netflix, com as linguagens de HTML, CSS e JavaScript, com foco em praticar estruturação de páginas e compreendo como funciona a página da Github.
 ## 🔗 Acesse o projeto
 
-Você pode visualizar o projeto online aqui: (https://bya123bya.github.io/Netflix-clone/)
+Você pode visualizar o projeto online aqui: (https://rharubya.github.io/Netflix-clone/)
 
 ## 🚀 Tecnologias utilizadas
 
